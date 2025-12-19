@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-posix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/SceneFoundry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/SceneFoundry/_matter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/SceneFoundry/_matter/SceneFoundry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/app-graphics3d" vcs="Git" />
+  </component>
+</project>
