@@ -6,6 +6,26 @@
     <mapping directory="$PROJECT_DIR$/operating_system/operating_system-linux" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/operating_system/operating_system-posix" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/id3lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/tinyobjloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/unac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/debugbreak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/jwt-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/nanosvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/picojson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/rapidjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/rapidjson/thirdparty/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/glad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/ktx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/ktx/KTX-Software" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/ktx/KTX-Software/tests/cts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/nanovg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/nanovg/nanovg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/SceneFoundry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/SceneFoundry/_matter" vcs="Git" />
