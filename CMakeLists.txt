@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 3.16)
 project(SceneFoundry)
 
 
+set(WITH_X11_OPERATING_AMBIENT TRUE)
+set(INCLUDE_OPENGL TRUE)
+
 include(source/app/_.cmake)
 
 
