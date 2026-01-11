@@ -26,6 +26,11 @@
     <mapping directory="$PROJECT_DIR$/port/graphics3d/ktx/KTX-Software/tests/cts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/graphics3d/nanovg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/graphics3d/nanovg/nanovg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/vkvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/vkvg/vkvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/vkvg/vkvg/external/glutess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/vkvg/vkvg/external/vkvg-svg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics3d/vkvg/vkvg/vkh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/SceneFoundry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/SceneFoundry/_matter" vcs="Git" />

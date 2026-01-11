@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(SceneFoundry)
 
-
+set(WITH_GPU_AND_GRAPHICS3D TRUE)
 set(WITH_X11_OPERATING_AMBIENT TRUE)
 set(INCLUDE_OPENGL TRUE)
 
