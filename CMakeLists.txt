@@ -183,3 +183,7 @@ include(source/app/_.cmake)
 #
 #
 #
+
+add_subdirectory(operating_system/operating_system-posix/__sample_egl_desktop_application)
+
+
