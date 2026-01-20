@@ -4,7 +4,7 @@
       <env name=" EGL_LOG_LEVEL" value="debug" />
       <env name=" LIBGL_DEBUG" value="verbose" />
       <env name="MESA_DEBUG" value="1" />
-      <env name="LIBGL_ALWAYS_SOFTWARE" value="1" />
+      <env name="__GL_THREADED_OPTIMIZATIONS" value="0" />
     </envs>
     <method v="2">
       <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
