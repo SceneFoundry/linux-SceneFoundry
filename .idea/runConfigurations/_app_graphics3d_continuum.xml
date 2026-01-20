@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="_app_graphics3d_continuum" type="CMakeRunConfiguration" factoryName="Application" folderName="001" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SceneFoundry" TARGET_NAME="_app_graphics3d_continuum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SceneFoundry" RUN_TARGET_NAME="_app_graphics3d_continuum">
+    <envs>
+      <env name=" EGL_LOG_LEVEL" value="debug" />
+      <env name=" LIBGL_DEBUG" value="verbose" />
+      <env name="MESA_DEBUG" value="1" />
+      <env name="LIBGL_ALWAYS_SOFTWARE" value="1" />
+    </envs>
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
